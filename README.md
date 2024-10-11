@@ -42,7 +42,7 @@
 ## Contribution
 Feel free to open issues or submit pull requests to help improve Thinkspace.
 
-## Project ScreenShots / (As I am facing some issues in deploying it to vercel)
+## Project ScreenShots / (You may click <a href="https://thinkspace-final.onrender.com/">here</a> to interact with the project 🥳)
 Home Page
 ![](https://utfs.io/f/QyLqvzYvXKINhyNNdlxe2XOHUzc6Dgi3hN8QnFesr9qV7p5A)
 
